@@ -6,6 +6,6 @@ class Teacher
   
   
   def teach
-
+    
   
 end
